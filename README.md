@@ -1,22 +1,29 @@
-# GUI-TIC-TAC-TOE ON C#
+# GUI TIC TAC TOE USING ONLY C##
 
-This project was made Entirely on C#.
+## Overview
+**GUI TIC TAC TOE USING C#** has been made purely on C# WPF without any other editors like unity. You have to click on one of the boxes on the grid. Player 1 will have a cross while Player 2 will have a circle.
+The one who completes 3 crosses in the same line or diagonal Wins.
 
-A Simple tic tac toe game where you win by connecting three crosses or circles.
+## How to Run
+1. Clone the repository or download the script file.
+2. Open the file using visual studio.
+3.Run the build and play the game.
+   
 
-Animations have  been used.
-
-I had assembly errors on a file and had to start over again.
-
-I used Small Assets for the animation of the Symbols 
-
-
-
-
-
-
+## Controls
+- Use the mouse to click on the grid.
+- Try to complete a line or a diagonal to win.
 
 
+## Overview of Steps
+- Imported all the assets for the animated square and circle.
+- Designed the UI of the game in WPF.
+- Made the gird and made the game win after the completion of a row or diagonal.
+- Made the animations for the Cross, Circle and victory line.
 
-Credits to Ottobot for assets and inspiration
+
+Credits to OttoBot codes for the assets and inspiration.
+
+Tutorial:
+https://youtu.be/OHRWRpT9WcE?si=MZDExRVdYFikPdwP
 
